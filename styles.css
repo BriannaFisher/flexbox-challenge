@@ -1,0 +1,32 @@
+.Card {
+    border: 3px solid black;
+    padding: 3px;
+    margin: 3px;
+    width: 40%;
+}
+    
+
+.nav{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.nav > a {
+    color: white;
+}
+
+.Panel {
+    float: right;
+    border: 2px solid black;
+    width: 30vw;
+    height: 50vh;
+    display:flex;
+    justify-items: flex-end;
+    align-items: flex-start;
+  
+}
+
+
